@@ -36,7 +36,10 @@ pip install -r requirements.txt
 
 3. Start the backend server:
 ```bash
-cd src/backend
+cd src/ml_models
+python train_model.py
+cd ..
+cd backend
 uvicorn main:app --reload
 ```
 
