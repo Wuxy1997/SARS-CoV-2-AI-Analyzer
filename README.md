@@ -30,6 +30,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 2. Install dependencies:
 ```bash
+python -m pip install --upgrade pip setuptools wheel
 pip install -r requirements.txt
 ```
 
@@ -160,6 +161,6 @@ Below are example inputs for each major feature. You can copy-paste or download 
 - **How to use:** Go to the Upload page, select a file, and click Upload & Parse. Preview the parsed data in the table.
 
 ---
-This readme file was wrote by ai
-This project is for me to apply for RA
-For more details, see the API docs or each page's help section.
+- This readme file was wrote by ai (laugh)
+- This project is for me to apply for RA
+- For more details, see the API docs or each page's help section.
