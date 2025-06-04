@@ -1,0 +1,5 @@
+sequence_id,mutations,location,date
+1,"S:D614G;N:R203K","Wuhan","2020-01-01"
+2,"S:N501Y;S:E484K","London","2021-03-15"
+3,"S:L452R;S:P681H","Delhi","2021-05-10"
+4,"S:D614G","New York","2020-12-20" 
